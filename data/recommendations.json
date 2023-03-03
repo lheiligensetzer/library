@@ -18,5 +18,15 @@
         },
         "language": "de",
         "year": 2023
-    }
+    },
+     {
+        "title": "Revolusi",
+        "author": {
+            "firstName": "David",
+            "lastName": "Van Reybrouck",
+            "alive": true
+        },
+        "language": "de",
+        "year": 2023
+         },
 ]
